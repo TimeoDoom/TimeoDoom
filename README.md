@@ -1,4 +1,3 @@
 - 👋 Salut, je suis @TimeoDoom
-- 👀 Je suis intéressé par HTML5, CSS3, PYTHON, JavaScript
+- 👀 Je suis intéressé par React, PYTHON
 - 🌱 J'apprends actuellement React JS, Python
-- 💞️ Je cherche à collaborer sur différents projets, vous aider, et que vous pourriez m'aider.
