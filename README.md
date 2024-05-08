@@ -1,4 +1,4 @@
-/À propos de moi >>>
+## À propos de moi
 
 Je m'appelle Timéo Doom et j'ai 17 ans. Depuis mon plus jeune âge, je suis passionné par l'informatique. Il y a quelques années, j'ai découvert le développement de sites web, ça été comme une révélation pour moi. J'ai été immédiatement captivé par ce domaine et j'ai décidé de plonger tête baissée dedans.
 
